@@ -1,0 +1,50 @@
+.form-div {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.section-header {
+  color: white;
+  background-color: rgb(89, 89, 182);
+  padding: 5px;
+  text-align: center;
+}
+
+.main-header {
+  text-align: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.overall-result {
+  text-align: center;
+  font-size: xx-large;
+  margin-bottom: 16px;
+  background-color: white;
+}
+
+.sample-box-ok {
+  background-color: lightgreen;
+  height: 30px;
+  width: 30px;
+  border: 0.5px solid black;
+}
+
+.sample-box-mra {
+  background-color: lemonchiffon;
+  height: 30px;
+  width: 30px;
+  border: 0.5px solid black;
+}
+
+.sample-box-ria {
+  background-color: lightcoral;
+  height: 30px;
+  width: 30px;
+  border: 0.5px solid black;
+}
+
+.block {
+  display: block;
+  width: 100%;
+}

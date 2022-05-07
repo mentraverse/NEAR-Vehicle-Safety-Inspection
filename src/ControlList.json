@@ -1,0 +1,42 @@
+[
+    {
+      "title": "EXTERIOR",
+      "controls": [
+        { "name": "Body", "id": "101" },
+        { "name": "Windshield / Glass", "id": "102" },
+        { "name": "Wipers", "id": "103" },
+        { "name": "Lights (Head, Brake, Turn)", "id": "104" }
+      ]
+    },
+    {
+      "title": "UNDERHOOD",
+      "controls": [
+        { "name": "Engine Oil", "id": "201" },
+        { "name": "Brake Fluid", "id": "202" },
+        { "name": "Power Steering Fluid", "id": "203" },
+        { "name": "Washer Fluid", "id": "204" },
+        { "name": "Belts & Hoses", "id": "205" },
+        { "name": "Battery Condition", "id": "206" },
+        { "name": "Cables & Connections", "id": "207" }
+      ]
+    },
+    {
+      "title": "UNDER VEHICLE",
+      "controls": [
+        { "name": "Brake system", "id": "301" },
+        { "name": "Steering system", "id": "302" },
+        { "name": "Shocks & Struts", "id": "303" },
+        { "name": "Driveline (Axies / CV Shaft)", "id": "304" },
+        { "name": "Exhaust System", "id": "305" },
+        { "name": "Fuel Lines & Hoses", "id": "306" }
+      ]
+    },
+    {
+      "title": "TIRES",
+      "controls": [
+        { "name": "Tread Depth", "id": "401" },
+        { "name": "Wear Pattern / Damage", "id": "402" },
+        { "name": "Air Pressure", "id": "403" }
+      ]
+    }
+  ]

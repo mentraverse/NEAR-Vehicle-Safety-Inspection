@@ -1,0 +1,52 @@
+.co {
+  background-color: lightgreen !important;
+  color: white !important;
+  padding: 5px;
+  margin: 0px !important;
+}
+
+.ra {
+  background-color: lemonchiffon !important;
+  color: white !important;
+  padding: 5px;
+  margin: 0px !important;
+}
+
+.ri {
+  background-color: lightcoral !important;
+  color: white !important;
+  padding: 5px;
+  margin: 0px !important;
+}
+
+.form-check-input {
+  margin-left: -14px !important;
+  margin-right: 6px !important;
+}
+
+.ratio-row {
+  border: 0.5px solid black;
+  position: relative;
+}
+
+.result-text {
+  text-align: right;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.result-text-passed {
+  color: green;
+}
+
+.result-text-passed-ra {
+  color: orange;
+}
+
+.result-text-failed {
+  color: red;
+}
+
+.test-name {
+  padding-top: 5px;
+}
