@@ -145,8 +145,10 @@ Please note that boilerplate project configuration files have been ommitted from
 To run this project locally:
 
 1. Prerequisites: Make sure you've installed [Node.js] ≥ 12
-2. Install dependencies: `yarn install`
-3. Run the local development server: `yarn dev` (see `package.json` for a
+2. Clone this repository
+3. Go to the project folder
+4. Install dependencies: `yarn install && cd contract && yarn install && cd ..`
+5. Run the local development server: `yarn dev` (see `package.json` for a
    full list of `scripts` you can run with `yarn`)
 
 Now you'll have a local development environment backed by the NEAR TestNet!
