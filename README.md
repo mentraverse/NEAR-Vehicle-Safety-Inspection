@@ -50,7 +50,7 @@ NEAR Vehicle Safety Inspection dApp consists of three fundamental components.
 
 # Introduction Video
 
-A 6 minute [loom] video which includes introduction and a quick demo. [Click HERE watch.](https://www.loom.com/share/3e364ff3e7e44b6cabd1af62c857b57f)
+A 6 minute [loom] video which includes introduction and a quick demo. [Click HERE to watch.](https://www.loom.com/share/3e364ff3e7e44b6cabd1af62c857b57f)
 
 # Live Demo
 
