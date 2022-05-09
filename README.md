@@ -7,13 +7,15 @@ Backend has been coded by using the [AssemblyScript], frontend interface [react]
 # Table of Contents  
 1. [Description](#description)
 2. [Usage](#usage)
-3. [Contract](#contract)
-4. [The File System](#the-file-system)
-5. [Quick Start](#quick-start)
-6. [Deploy](#deploy)
-7. [Future Development](#future-development)
-8. [Troubleshooting](#troubleshooting)
-9. [Author](#author)
+3. [Introduction Video](#introduction-video)
+4. [Live Demo](#live-demo)
+5. [Contract](#contract)
+6. [The File System](#the-file-system)
+7. [Quick Start](#quick-start)
+8. [Deploy](#deploy)
+9. [Future Development](#future-development)
+10. [Troubleshooting](#troubleshooting)
+11. [Author](#author)
 
 # Description
 
@@ -44,6 +46,15 @@ NEAR Vehicle Safety Inspection dApp consists of three fundamental components.
    This component can be accessed via “/check” path.
 
    ![vehicle_inspection_check.gif](./screenshots/vehicle_inspection_check.gif)
+   ![vehicle_inspection_fail.gif](./screenshots/vehicle_inspection_fail.gif)
+
+# Introduction Video
+
+A 6 minute [loom] video which includes introduction and a quick demo. [Click HERE watch.](https://www.loom.com/share/3e364ff3e7e44b6cabd1af62c857b57f)
+
+# Live Demo
+
+Frontend is live on [Firebase], [click HERE to see it in action!](https://near-vehicle-safety-inspection.web.app/)
 
 # Contract
 
@@ -211,8 +222,9 @@ On Windows, if you're seeing an error containing `EPERM` it may be related to sp
 
 # Author
 
-- Okan Serkan Erkan ( ose @ mentraverse . io )  
-Made with ❤️ in decenteralized world! 
+- Okan Serkan Erkan (https://www.linkedin.com/in/serkan-erkan/)
+
+   Made with ❤️ in decenteralized world! 
 
 [near protocol]:https://near.org
 [assemblyscript]:https:/www.assemblyscript.org
@@ -223,4 +235,5 @@ Made with ❤️ in decenteralized world!
 [near wallet]: https://wallet.testnet.near.org/
 [near-cli]: https://github.com/near/near-cli
 [gh-pages]: https://github.com/tschaub/gh-pages
-[turkiye]: https://goturkiye.com/
+[Firebase]: https://firebase.google.com/
+[loom]: https://www.loom.com/
